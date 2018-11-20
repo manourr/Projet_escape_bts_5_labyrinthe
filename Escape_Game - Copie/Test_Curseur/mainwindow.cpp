@@ -5,10 +5,13 @@ MainWindow::MainWindow(QWidget *parent) :
     QMainWindow(parent),
     ui(new Ui::MainWindow)
 {
+    int button;
+    int a = 250;
+    int b = 230;
     ui->setupUi(this);
-    QApplication MyApp(argc,argv);
+    QApplication MyApp(&a,&b);
 
-        QPushButton button("Je suis un bouton");
+
 
         QPixmap pix(":/new/prefix1/cur.png");
         pix.setMask(QBitmap(":/new/prefix1/curmap.png"));
