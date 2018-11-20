@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.3.1, 2018-11-20T10:49:48. -->
+<!-- Written by QtCreator 4.3.1, 2018-10-09T12:02:53. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{0c648d29-de40-4e26-9a3a-f23901bf6d59}</value>
+  <value type="QByteArray">{a79fe931-3248-42f0-b0b5-2501aaf87939}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -285,8 +285,8 @@
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Pos_curseur</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Pos_curseur2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:H:/SN2/github/Projet_escape_bts_5_labyrinthe/Projet_escape_bts_5_labyrinthe/Pos_curseur/Pos_curseur.pro</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName"></value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:H:/SN2/Informatique Angibaud/Escape_Game - Copie/Pos_curseur/Pos_curseur.pro</value>
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">Pos_curseur.pro</value>
