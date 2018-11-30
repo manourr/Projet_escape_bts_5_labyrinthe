@@ -15,3 +15,10 @@ Recherche pour la recuperation des couleurs d'un pixel
 Aide a la création du Github pour maxime
 Recherche pour pouvoir creer deux couleurs.
 Recherche pour la creation d'une fenetre avec un fond d'ecran
+
+20/11/2018
+
+Soulution trouver pour utiliser Qpixmap
+Intégration du fichier de MAxime pos curseur
+Labhyrynthe fonctione. 
+Recherche pour l'envoi de gagne au serveur
