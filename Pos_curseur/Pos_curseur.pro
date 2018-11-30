@@ -1,6 +1,7 @@
 QT += core
 QT -= gui
-
+LIBS +=C:\Qt\Qt5.9.0\Tools\QtCreator\lib\libgdi32.a
+LIBS +=C:\Qt\Qt5.9.0\Tools\QtCreator\lib\Gdi32.Lib
 CONFIG += c++11
 
 TARGET = Pos_curseur

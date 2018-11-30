@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<<<<<<< HEAD
-<!-- Written by QtCreator 4.3.1, 2018-11-30T09:18:53. -->
-=======
-<!-- Written by QtCreator 4.3.1, 2018-11-20T10:38:07. -->
->>>>>>> 53f4615490c8366dbd4eadd215b55e11a6474828
+<!-- Written by QtCreator 4.3.1, 2018-11-23T17:19:32. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
-  <value type="QByteArray">{0c648d29-de40-4e26-9a3a-f23901bf6d59}</value>
+  <value type="QByteArray">{95759764-2e53-4230-9f1e-6d67916896a8}</value>
  </data>
  <data>
   <variable>ProjectExplorer.Project.ActiveTarget</variable>
@@ -290,11 +286,7 @@
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DefaultDisplayName">Pos_curseur</value>
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">Pos_curseur2</value>
-<<<<<<< HEAD
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:H:/SN2/github/Projet_escape_bts_5_labyrinthe/Projet_escape_bts_5_labyrinthe/Pos_curseur/Pos_curseur.pro</value>
-=======
     <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">Qt4ProjectManager.Qt4RunConfiguration:H:/Projet_escape_bts_5_labyrinthe/Pos_curseur/Pos_curseur.pro</value>
->>>>>>> 53f4615490c8366dbd4eadd215b55e11a6474828
     <value type="bool" key="QmakeProjectManager.QmakeRunConfiguration.UseLibrarySearchPath">true</value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.CommandLineArguments"></value>
     <value type="QString" key="Qt4ProjectManager.Qt4RunConfiguration.ProFile">Pos_curseur.pro</value>
