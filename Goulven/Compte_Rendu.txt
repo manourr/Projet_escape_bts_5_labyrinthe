@@ -22,3 +22,8 @@ Soulution trouver pour utiliser Qpixmap
 Intégration du fichier de MAxime pos curseur
 Labhyrynthe fonctione. 
 Recherche pour l'envoi de gagne au serveur
+
+30/11/2018
+
+Recherche pour l'envoie des sockects
+finalisation de la fin de nivaux.
