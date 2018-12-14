@@ -1,0 +1,3 @@
+QMainWindow {
+	background-image: url(bg.png);
+}
