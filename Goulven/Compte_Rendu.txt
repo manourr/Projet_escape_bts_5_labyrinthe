@@ -27,3 +27,8 @@ Recherche pour l'envoi de gagne au serveur
 
 Recherche pour l'envoie des sockects
 finalisation de la fin de nivaux.
+
+14/12/2018
+
+Creation du cahier de recette 
+realisation de l'envoi au serveur du mot gagné
